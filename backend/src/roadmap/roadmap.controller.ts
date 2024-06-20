@@ -1,5 +1,4 @@
 import RoadmapService from './roadmap.service';
-import { Request, Response } from 'express';
 
 class roadmapController {
   private roadmapService: RoadmapService;
